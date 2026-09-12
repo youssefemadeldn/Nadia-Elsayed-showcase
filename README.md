@@ -1,11 +1,17 @@
 > [!IMPORTANT]
-> **This is a showcase repository, not the source code.**
-> This README documents a real project I built for a client. The client owns the code and
-> it is intentionally kept private — nothing beyond this documentation and its screenshots
-> is published here, and nothing else ever will be. Contact me if you'd like to discuss
-> the work in more detail.
+> ## 🔒 Showcase Repository — Source Code is Private
+>
+> This documents a **real project built for a client**. The client owns the code and it is
+> intentionally kept private — only this README and its screenshots are public, and nothing
+> else ever will be.
+>
+> 📩 **Want to see the code or discuss the work?** Reach out — contact info in my
+> [GitHub profile](https://github.com/youssefemadeldn).
 
 ---
+
+![repo](https://img.shields.io/badge/repo-showcase%20only-critical)
+![code](https://img.shields.io/badge/source%20code-private-red)
 
 # Nadia Elsayed
 

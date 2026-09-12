@@ -8,6 +8,8 @@
 ![code](https://img.shields.io/badge/source-private-red)
 ![platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20API-blue)
 
+<img src="assets/status-light.svg" width="230" alt="Blinking light: source code is private">
+
 *Curious about the implementation? [Get in touch](https://github.com/youssefemadeldn).*
 
 </div>

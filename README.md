@@ -1,19 +1,18 @@
-> [!IMPORTANT]
-> ## 🔒 Showcase Repository — Source Code is Private
->
-> This documents a **real project built for a client**. The client owns the code and it is
-> intentionally kept private — only this README and its screenshots are public, and nothing
-> else ever will be.
->
-> 📩 **Want to see the code or discuss the work?** Reach out — contact info in my
-> [GitHub profile](https://github.com/youssefemadeldn).
+<div align="center">
 
----
+# 🔒 Nadia Elsayed — Showcase Repository
+
+### This repo documents a real client project. The source code is private and stays that way.
 
 ![repo](https://img.shields.io/badge/repo-showcase%20only-critical)
-![code](https://img.shields.io/badge/source%20code-private-red)
+![code](https://img.shields.io/badge/source-private-red)
+![platform](https://img.shields.io/badge/platform-iOS%20%7C%20Android%20%7C%20Web%20%7C%20API-blue)
 
-# Nadia Elsayed
+*Curious about the implementation? [Get in touch](https://github.com/youssefemadeldn).*
+
+</div>
+
+---
 
 **Chef Nadia El-Sayed's official cooking platform** — a multi-part product built around her YouTube
 content (video playlists, Shorts, and community posts), browsable on mobile and web, curated through an
